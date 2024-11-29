@@ -1,7 +1,7 @@
 # Installation Instructions
 
 # Clone the Repository:
-git clone https://github.com/<your-username>/nestjs-user-document-management.git
+git clone https://github.com/meankit025/Nest-user-document-backend/tree/master
 cd nestjs-user-document-management
 
 Install Dependencies:
